@@ -1,2 +1,2 @@
 # my-starter-kit
-# Hey developers! this starter kit is in under developed, hope this will be helpful for all purposes.
+# Hey developers! this starter kit is in under developed, I hope this will be helpful for all purposes.
